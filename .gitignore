@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+
+# Training outputs and large model files
+artifacts/
+results/
+*.keras
+*.h5
+
+# Notebook checkpoints
+.ipynb_checkpoints/
